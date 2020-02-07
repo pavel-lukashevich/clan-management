@@ -26,10 +26,10 @@ We use pure PHP without frameworks and third-party services and libraries.
 -  Clone this repository
 
 ```
-git clone https://github.com/pavel-lukashevich/imageParser.git
+https://github.com/pavel-lukashevich/clan-management.git
 
 ```
-- cd to the dir with project, follow
+- cd to the dir with clan-management, follow
 
 ```
 composer update
